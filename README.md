@@ -1,6 +1,6 @@
 # DHVIT_OP
 # 👋HI I AM DHVIT 👋
-I am a developer of discord bots I know javascript and html. <br >
+I am Developer, I am not that good in css and html but i know how it works. I'm a Backend Developer (I don't do frontend)
 # Heres my stats - <br >
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dhvitOP)
 # Languages and Tools that i use
